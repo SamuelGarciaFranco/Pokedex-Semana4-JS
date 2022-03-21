@@ -1,5 +1,5 @@
 # Pokedex-Semana4-JS
-Creación de un Pokedex, consumiento la PokeApi
+Creación de un proyecto Pokedex, consumiento el servicio de PokeApi. Puedes buscar todos los pokemones por Número o por nombre. Para mayor infomación consultar https://pokeapi.co/.
 
 Esta práctica pertenece al curso de LaunchX - Microsoft (Desarrollador FullStack)
 
