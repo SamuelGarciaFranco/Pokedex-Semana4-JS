@@ -1,5 +1,6 @@
 # Pokedex-Semana4-JS
 Creación de un Pokedex, consumiento la PokeApi
+
 Esta práctica pertenece al curso de LaunchX - Microsoft (Desarrollador FullStack)
 
 Live de la página: https://samuelgarciafranco.github.io/Pokedex-Semana4-JS/
